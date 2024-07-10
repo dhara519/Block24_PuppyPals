@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.names {
+  font-size: larger;
+  color: #646cffad;
+}
+
+.featPup {
+  color: #61dafbaa;
+  font-size: 300%;
+  margin: 0%;
+}
+
+.featPupBio {
+  color: gray;
+  font-size: 130%;
+  margin: 1%;
+  list-style-type: none;
+}
