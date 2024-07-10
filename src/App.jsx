@@ -13,6 +13,7 @@ function App() {
 
   //  onClick ={} needs a function passed in. you can add a blank one like onClick={() => {}} or declare a regular function (){} above and pass that through.
   //  Each child in a list should have a unique "key" prop. (line 23)
+  //
   return (
     <>
       <div>

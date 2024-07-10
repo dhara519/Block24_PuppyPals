@@ -69,6 +69,6 @@ export const puppyList = [
     isCute: true,
     age: 2,
     ownerId: 3,
-    tricks: [],
+    tricks: ["sit"],
   },
 ];
